@@ -18,7 +18,7 @@ O JSON para utilizar no Insomnia é este aqui -> https://git.heroku.com/json-ser
 
 Para importar o JSON no Insomnia é só clicar na palavra "Insomnia" no canto superior esquerdo. Nesse dropdown é só clicar em "Import / Export > Import Data > From Url" e colocar o link acima :v:
 
-<!-- O url base da API é https://atividade-json.herokuapp.com/ -->
+O url base da API é https://git.heroku.com/json-server-hamburgueria2.git
 
 ## Rotas que não precisam de autenticação
 
