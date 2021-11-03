@@ -1,0 +1,92 @@
+{
+  "users": [
+    {
+      "email": "maria@gmail.com",
+      "password": "$2a$10$hyF1lVktAscW42K1vljCO.5RReMxTUGXF5bGLMd9uA2rXQzBHlP.e",
+      "name": "Maria",
+      "id": 1
+    },
+    {
+      "email": "maria1@gmail.com",
+      "password": "$2a$10$DsPYD6.K2yH2KhvgbTeVpumHCsbweuR1JQECnBdwi2jLgF6pWFkha",
+      "name": "Maria",
+      "id": 2
+    }
+  ],
+  "cart": [
+    {
+      "name": "Hamburguer",
+      "category": "Sanduíches",
+      "price": 14,
+      "img": "../Assets/hamburguer",
+      "userId": 1,
+      "id": 2
+    },
+    {
+      "name": "Hamburguer",
+      "category": "Sanduíches",
+      "price": 14,
+      "img": "../Assets/hamburguer",
+      "userId": 1,
+      "id": 3
+    }
+  ],
+  "foods": [
+    {
+      "id": 1,
+      "name": "Hamburguer",
+      "category": "Sanduíches",
+      "price": 14,
+      "img": "../Assets/hamburguer"
+    },
+    {
+      "id": 2,
+      "name": "X-Burguer",
+      "category": "Sanduíches",
+      "price": 16,
+      "img": "../Assets/xburguer"
+    },
+    {
+      "id": 3,
+      "name": "Big Kenzie",
+      "category": "Sanduíches",
+      "price": 18,
+      "img": "../Assets/bigKenzie"
+    },
+    {
+      "id": 4,
+      "name": "Combo Kenzie",
+      "category": "Combos",
+      "price": 26,
+      "img": "../Assets/comboKenzie"
+    },
+    {
+      "id": 5,
+      "name": "Fanta Guaraná",
+      "category": "Bebidas",
+      "price": 5,
+      "img": "../Assets/fantaGuarana"
+    },
+    {
+      "id": 6,
+      "name": "Coca Cola",
+      "category": "Bebidas",
+      "price": 7,
+      "img": "../Assets/cocaCola"
+    },
+    {
+      "id": 7,
+      "name": "McShake Ovomaltine",
+      "category": "Sobremesas",
+      "price": 10,
+      "img": "../Assets/mcShakeOvomaltine"
+    },
+    {
+      "id": 8,
+      "name": "Sundae Ovomaltine",
+      "category": "Sobremesas",
+      "price": 10,
+      "img": "../Assets/sundaeOvomaltine"
+    }
+  ]
+}
