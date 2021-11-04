@@ -37,56 +37,56 @@
       "name": "Hamburguer",
       "category": "Sanduíches",
       "price": 14,
-      "img": "../Assets/hamburguer.png"
+      "img": "https://json-server-hamburgueria2.herokuapp.com/Assets/hamburguer.png"
     },
     {
       "id": 2,
       "name": "X-Burguer",
       "category": "Sanduíches",
       "price": 16,
-      "img": "../Assets/xburguer.png"
+      "img": "https://json-server-hamburgueria2.herokuapp.com/Assets/xburguer.png"
     },
     {
       "id": 3,
       "name": "Big Kenzie",
       "category": "Sanduíches",
       "price": 18,
-      "img": "../Assets/bigKenzie.png"
+      "img": "https://json-server-hamburgueria2.herokuapp.com/Assets/bigKenzie.png"
     },
     {
       "id": 4,
       "name": "Combo Kenzie",
       "category": "Combos",
       "price": 26,
-      "img": "../Assets/comboKenzie.png"
+      "img": "https://json-server-hamburgueria2.herokuapp.com/Assets/comboKenzie.png"
     },
     {
       "id": 5,
       "name": "Fanta Guaraná",
       "category": "Bebidas",
       "price": 5,
-      "img": "../Assets/fantaGuarana.png"
+      "img": "https://json-server-hamburgueria2.herokuapp.com/Assets/fantaGuarana.png"
     },
     {
       "id": 6,
       "name": "Coca Cola",
       "category": "Bebidas",
       "price": 7,
-      "img": "../Assets/cocaCola.png"
+      "img": "https://json-server-hamburgueria2.herokuapp.com/Assets/cocaCola.png"
     },
     {
       "id": 7,
       "name": "McShake Ovomaltine",
       "category": "Sobremesas",
       "price": 10,
-      "img": "../Assets/mcShakeOvomaltine.png"
+      "img": "https://json-server-hamburgueria2.herokuapp.com/Assets/mcShakeOvomaltine.png"
     },
     {
       "id": 8,
       "name": "Sundae Ovomaltine",
       "category": "Sobremesas",
       "price": 10,
-      "img": "../Assets/sundaeOvomaltine.png"
+      "img": "https://json-server-hamburgueria2.herokuapp.com/Assets/sundaeOvomaltine.png"
     }
   ]
 }
