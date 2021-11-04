@@ -37,56 +37,56 @@
       "name": "Hamburguer",
       "category": "Sanduíches",
       "price": 14,
-      "img": "../Assets/hamburguer"
+      "img": "../Assets/hamburguer.png"
     },
     {
       "id": 2,
       "name": "X-Burguer",
       "category": "Sanduíches",
       "price": 16,
-      "img": "../Assets/xburguer"
+      "img": "../Assets/xburguer.png"
     },
     {
       "id": 3,
       "name": "Big Kenzie",
       "category": "Sanduíches",
       "price": 18,
-      "img": "../Assets/bigKenzie"
+      "img": "../Assets/bigKenzie.png"
     },
     {
       "id": 4,
       "name": "Combo Kenzie",
       "category": "Combos",
       "price": 26,
-      "img": "../Assets/comboKenzie"
+      "img": "../Assets/comboKenzie.png"
     },
     {
       "id": 5,
       "name": "Fanta Guaraná",
       "category": "Bebidas",
       "price": 5,
-      "img": "../Assets/fantaGuarana"
+      "img": "../Assets/fantaGuarana.png"
     },
     {
       "id": 6,
       "name": "Coca Cola",
       "category": "Bebidas",
       "price": 7,
-      "img": "../Assets/cocaCola"
+      "img": "../Assets/cocaCola.png"
     },
     {
       "id": 7,
       "name": "McShake Ovomaltine",
       "category": "Sobremesas",
       "price": 10,
-      "img": "../Assets/mcShakeOvomaltine"
+      "img": "../Assets/mcShakeOvomaltine.png"
     },
     {
       "id": 8,
       "name": "Sundae Ovomaltine",
       "category": "Sobremesas",
       "price": 10,
-      "img": "../Assets/sundaeOvomaltine"
+      "img": "../Assets/sundaeOvomaltine.png"
     }
   ]
 }
