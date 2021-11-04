@@ -13,80 +13,63 @@
       "id": 2
     }
   ],
-  "cart": [
-    {
-      "name": "Hamburguer",
-      "category": "Sanduíches",
-      "price": 14,
-      "img": "../Assets/hamburguer",
-      "userId": 1,
-      "id": 2
-    },
-    {
-      "name": "Hamburguer",
-      "category": "Sanduíches",
-      "price": 14,
-      "img": "../Assets/hamburguer",
-      "userId": 1,
-      "id": 3
-    }
-  ],
+  "cart": [],
   "foods": [
     {
       "id": 1,
       "name": "Hamburguer",
       "category": "Sanduíches",
-      "price": 14,
-      "img": "https://json-server-hamburgueria2.herokuapp.com/Assets/hamburguer.png"
+      "price": 14.00,
+      "img": "https://img.deliverydireto.com.br/q_7uN7h9LR5WUtv0zBZiZ-7CXUo=/fit-in/origxorig/filters:format(webp)/https://duisktnou8b89.cloudfront.net/img/items/mcchicken-cheddar6130ea7c7cffa.png"
     },
     {
       "id": 2,
       "name": "X-Burguer",
       "category": "Sanduíches",
-      "price": 16,
-      "img": "https://json-server-hamburgueria2.herokuapp.com/Assets/xburguer.png"
+      "price": 16.00,
+      "img": "https://img.deliverydireto.com.br/Q5EtJTClNcjclPAAHXIpYlW99DI=/fit-in/origxorig/filters:format(webp)/https://duisktnou8b89.cloudfront.net/img/items/quarterao-com-queijo6130ea852ddbe.png"
     },
     {
       "id": 3,
       "name": "Big Kenzie",
       "category": "Sanduíches",
-      "price": 18,
-      "img": "https://img.riomarevoce.com/salvadorshopping/2020/09/duplo_barbecue_mcdonalds-400x400.jpg"
+      "price": 18.00,
+      "img": "https://img.deliverydireto.com.br/7SDDBO1He4LyH0fJ5lUrNWS3WzM=/fit-in/origxorig/filters:format(webp)/https://duisktnou8b89.cloudfront.net/img/items/duplo-barbecue6130ea8626298.png"
     },
     {
       "id": 4,
       "name": "Combo Kenzie",
       "category": "Combos",
-      "price": 26,
+      "price": 26.00,
       "img": "https://img.deliverydireto.com.br/xpf8UQTCUnvcgxidZFa9auHmClo=/fit-in/origxorig/filters:format(webp)/https://duisktnou8b89.cloudfront.net/img/items/sanduiche-classico-bebida6130ea7c8ab1e.png"
     },
     {
       "id": 5,
       "name": "Fanta Guaraná",
       "category": "Bebidas",
-      "price": 5,
-      "img": "https://json-server-hamburgueria2.herokuapp.com/Assets/fantaGuarana.png"
+      "price": 5.00,
+      "img": "https://img.deliverydireto.com.br/o_ZFFfp6eOSHCoBsVP2mNfGchIU=/fit-in/origxorig/filters:format(webp)/https://duisktnou8b89.cloudfront.net/img/items/fanta-guarana6130ea8bbf549.png"
     },
     {
       "id": 6,
       "name": "Coca Cola",
       "category": "Bebidas",
-      "price": 7,
-      "img": "https://order.bkdelivery.co.id/media/thumb/product_photo/2019/5/3/h535upbgvthbcfethaudkj_product_list.jpg"
+      "price": 7.00,
+      "img": "https://img.deliverydireto.com.br/Az_WHDm28w_jDzJXzmB_ZPL14Ao=/fit-in/origxorig/filters:format(webp)/https://duisktnou8b89.cloudfront.net/img/items/coca-cola-400ml6130ea8b92fb0.png"
     },
     {
       "id": 7,
       "name": "McShake Ovomaltine",
       "category": "Sobremesas",
-      "price": 10,
-      "img": "https://json-server-hamburgueria2.herokuapp.com/Assets/mcShakeOvomaltine.png"
+      "price": 10.00,
+      "img": "https://img.deliverydireto.com.br/6VELWkWSQHEp2JoYAwE7o0WhLvQ=/fit-in/origxorig/filters:format(webp)/https://duisktnou8b89.cloudfront.net/img/items/mcshake-ovomaltine-400ml6130ea8b0a22f.png"
     },
     {
       "id": 8,
       "name": "Sundae Ovomaltine",
       "category": "Sobremesas",
-      "price": 10,
-      "img": "https://json-server-hamburgueria2.herokuapp.com/Assets/sundaeOvomaltine.png"
+      "price": 10.00,
+      "img": "https://img.deliverydireto.com.br/MTSJ65e7jpD8iGKBBpHMiXppaWs=/237x237/filters:format(webp)/https://duisktnou8b89.cloudfront.net/img/items/top-sundae-chocolate6130ea8963aaf.png"
     }
   ]
 }
